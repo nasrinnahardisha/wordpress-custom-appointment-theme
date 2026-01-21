@@ -15,7 +15,7 @@
                 <a href="../doctors/doctors.php" class="hover:text-red-600">Doctors</a>
             </li>
             <li>
-                <a href="../news/news.php" class="hover:text-red-600">News</a>
+                <a href="../news/news.php" class="hover:text-red-600">All News</a>
             </li>
             <li>
                 <a href="../contact/contact.php" class="hover:text-red-600">Contact us</a>
